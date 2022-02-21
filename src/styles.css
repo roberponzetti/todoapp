@@ -1,0 +1,39 @@
+.form-check-input {
+    transform: scale(1.5);
+  }
+  
+  #newTask {
+    font-size: 110%;
+    font-weight: bold;
+    color: #636364;
+  }
+  
+  #checkControls{
+    font-size: 120%;
+    display: inline;
+    margin-left: 10px;
+    font-weight: bold;
+    color: #636364;
+  }
+  
+  #checkControls:disabled {
+    background-color: transparent;
+    border: 0 !important;
+  }
+  
+  .editItem{
+    background-color: #2fd12a !important;
+  }
+  
+  .deleteItem{
+    background-color: #ff4444 !important;
+  }
+  
+  .saveItem {
+    background-color: #00b871 !important;
+  }
+  
+  .row-margin{
+    margin-left: 2rem !important;
+    margin-right: 2rem!important;
+  }
